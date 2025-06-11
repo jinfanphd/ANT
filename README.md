@@ -63,4 +63,3 @@ Instructions for Data Analysis
 Psychometric Properties
 
 Reliability coefficients for the alerting, orienting, and executive control of attention were .57, .69, and .91, respectively based on a sample of 30 participants.
-![image](https://github.com/user-attachments/assets/3df84480-273f-46fd-94c2-680b819e20bf)
